@@ -1,0 +1,6 @@
+# Put this in the root python folder
+key_id: "yourkey"
+secret: "yoursecret"
+base_url: https://paper-api.alpaca.markets
+universe:  'ALL'  # Have to select all in order for live trading to work
+# universe: 'SP500'
